@@ -1,0 +1,50 @@
+header{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-top-left-radius:15px ;
+    border-top-right-radius:15px ;
+    border-bottom-color: whitesmoke;
+    border:1px solid whitesmoke;
+    padding: 0% 10% 0% 10%;
+    
+}
+
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+   padding: 2.5% 0% 0% 0%;
+   background-color:white;
+  
+   
+    
+}
+
+nav{
+    display: flex;
+    /* flex-direction:column ; */
+    /* flex-wrap: wrap; */
+    justify-content:space-evenly;
+    font-weight:500;
+    padding: 0px 0% 0% 0%;
+    text-align: center;
+}
+
+.text{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    /* padding:6% 10% 0% 10%; */
+    
+
+}
+
+
+
+
+footer img {
+    height: 20px;
+    margin-top:20%;
+    
+}
