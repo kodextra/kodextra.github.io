@@ -42,12 +42,6 @@ nav{
 }
 
 
-div img {
-
-   width:80%;
-   height: 50%;
-}
-
 
 
 
@@ -61,5 +55,7 @@ footer img {
 
     border-radius: 30%;
     box-shadow: 2px 2px 2px 7px whitesmoke ;
+       width:80%;
+   height: 80%;;
     
 }
