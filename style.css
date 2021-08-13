@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;800&display=swap');
+
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+   padding: 2.5% 10% 0% 10%;
+   background-color:white;
+  
+   
+    
+}
+
+header{
+
+    display: flex;
+    justify-content: space-between;
+    border-top-left-radius:15px ;
+    border-top-right-radius:15px ;
+    border-bottom-color: whitesmoke;
+    border:1px solid whitesmoke;
+    padding: 0% 10% 0% 10%;
+    
+}
+
+nav{
+    display: flex;
+    justify-content:space-evenly;
+    font-weight:700;
+    padding: 11px 0% 0% 0%;
+}
+
+
+.text{
+    display: flex;
+    justify-content: space-between;
+    padding:6% 10% 0% 10%;
+    
+
+}
+
+/* .pixbg{
+
+   background-color:#756585 ;
+   border-radius: 35%;
+} */
+
+.img{
+
+    border-radius: 60%;
+    box-shadow: 2px 2px 2px 15px whitesmoke ;
+    
+}
+
+
+
+h1{
+    font-weight: 800;
+    font-size:2.2rem;
+}
+
+
+button{
+
+    background-color: #588be2;
+    width: 250px;
+    height: 60px;
+    border:none ;
+    border-radius: 10px;
+    outline: none;
+    color: white;
+    position: relative;
+    top:20px;
+}
+
+button:hover{
+
+    background-color: Blue;
+}
+
+b{
+    color: #588be2;
+}
+
+a{
+    text-decoration: none;
+    color: #588be2;
+}
+
+a:hover{
+
+color: black;
+
+}
+
+
+
+footer{
+    padding: 5% 10% 5% 10%;
+    
+}
+
+.container{
+    
+    border-radius:15px;
+    border-bottom-color: whitesmoke;
+    border:1px solid whitesmoke;
+    box-shadow: 3px 5px 50px #588be2 ;
+    background-color: white;
+    
+    
+}
+
+footer img {
+    height: 20px;
+}
